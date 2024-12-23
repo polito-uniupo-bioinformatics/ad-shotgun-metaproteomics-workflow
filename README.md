@@ -177,10 +177,10 @@ This Project was supported By: NextGeneration EU PRIN 2022 PNRR Prot. P2022AFS8P
 
 
 <p>
-  <img src="Acks/next-gen-eu.png" alt="img.png" width="110" height="100" />
-  <img src="Acks/muir-italy.png" alt="img_1.png" width="110" height="100" />
-  <img src="Acks/Polito.png" alt="img_2.png" width="110" height="100" />
-  <img src="Acks/UniUPO.png" alt="img_3.png" width="110" height="100" />
+  <img src="Acks/next-gen-eu.png" alt="img.png" width="110" height="100" style="margin-right: 10px;" />
+  <img src="Acks/muir-italy.png" alt="img_1.png" width="110" height="100" style="margin-right: 10px;" />
+  <img src="Acks/Polito.png" alt="img_2.png" width="110" height="100" style="margin-right: 10px;" />
+  <img src="Acks/UniUPO.png" alt="img_3.png" width="110" height="100" style="margin-right: 10px;" />
 </p>
 
 
